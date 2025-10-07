@@ -130,3 +130,5 @@ zsh
 #Added packages
 hyprland
 mesa
+kitty
+waybar
