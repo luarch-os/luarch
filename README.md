@@ -5,7 +5,7 @@ A minimal, Arch Linux-based operating system tailored for software developers, f
 **TODO**:
 
 - [x] Initial build works with Hyprland
-- [] Hyprland setup
-- [] Installation script / graphical installer
-- [] Dev packages and software
-- [] AUR setup
+- [ ] Hyprland setup
+- [ ] Installation script / graphical installer
+- [ ] Dev packages and software
+- [ ] AUR setup
