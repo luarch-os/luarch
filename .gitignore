@@ -1,4 +1,4 @@
-# Build artifacts - DO NOT TRACK THESE
+# Build artifacts
 work/
 out/
 *.iso
