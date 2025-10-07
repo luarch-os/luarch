@@ -1,0 +1,15 @@
+# Build artifacts - DO NOT TRACK THESE
+work/
+out/
+*.iso
+*.tar.gz
+*.img
+
+# Temporary files
+*~
+.*.swp
+*.tmp
+
+# Machine-specific files
+/.vscode/
+/.idea/
