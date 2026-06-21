@@ -1,3 +1,5 @@
+# Unmaintained: Fully Migrated to NixOS
+
 # Luarch
 
 A minimal, Arch Linux-based operating system tailored for software developers, featuring the Hyprland Wayland compositor and a curated set of development tools pre-configured for immediate productivity.
@@ -5,7 +7,8 @@ A minimal, Arch Linux-based operating system tailored for software developers, f
 **TODO**:
 
 - [x] Initial build works with Hyprland
-- [ ] Hyprland setup
-- [ ] Installation script / graphical installer
-- [ ] Dev packages and software
-- [ ] AUR setup
+- [x] Hyprland setup
+- [x] Installation script / graphical installer
+- [x] Dev packages and software
+- [x] AUR setup
+
